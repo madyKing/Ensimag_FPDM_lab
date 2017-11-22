@@ -26,7 +26,7 @@ A priori (before reading the data), do you think a two-state Gaussian model coul
 
 ***
 
-We think that a two-state Gaussian model should be sufficient because bit letter lambda somsistr only of two lines.
+We think that a two-state Gaussian model should be sufficient because big letter lambda somsistr only of two lines.
 
 ### Data analysis: Gaussian model
 
